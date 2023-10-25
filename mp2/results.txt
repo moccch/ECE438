@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bf516f5 (AUTO: reporting results)
+test results:
+
+  Test 1: sanity check: transfer single byte succeeded!
+ Test 2: transfer 50K succeeded!
+<<<<<<< HEAD
+-10:  Test 3: utilize empty link failed: your receiver didn't terminate within 45s. your receiver wrote 7446528 of 65000000 bytes to disk.
+
+-10:  Test 6: quick convergence failed: failed to send 20MB in 20s (receiver wrote 2060288 bytes)
+
+ Test 7: TCP friendliness succeeded! (TCP got 38.8 Mbps)
+ Test 8: TCP friendliness with 1% loss succeeded! (TCP got 25.0 Mbps)
+ (current version late: -0%)
+
+====================
+version:11
+score: 80/100
+all-time best score (your current grade): 80/100
+
+
+=======
+Version 1:
+*******CHECK compiler_errors.txt FOR RESULTS!!!******
+>>>>>>> b219bef (AUTO: reporting results)
+=======
+ Test 3: utilize empty link succeeded!
+-10:  Test 6: quick convergence failed: failed to send 20MB in 20s (receiver wrote 39235584 bytes)
+
+ Test 7: TCP friendliness succeeded! (TCP got 37.4 Mbps)
+ Test 8: TCP friendliness with 1% loss succeeded! (TCP got 29.2 Mbps)
+ (current version late: -0%)
+
+====================
+version:2
+score: 90/100
+all-time best score (your current grade): 90/100
+
+
+>>>>>>> bf516f5 (AUTO: reporting results)

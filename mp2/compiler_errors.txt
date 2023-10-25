@@ -1,0 +1,5 @@
+compilation of version 1 failed with:
+mkdir -p obj
+make: *** No rule to make target 'obj/sender_main.o', needed by 'reliable_sender'.  Stop.
+ 
+
